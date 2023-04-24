@@ -6,5 +6,7 @@ Quick way to jump into a TypeScript project.
 
 ## Features
 - Eslint
+- Prettier
+- Husky pre-commit hooks
 - Nodemon
 - Vitest
