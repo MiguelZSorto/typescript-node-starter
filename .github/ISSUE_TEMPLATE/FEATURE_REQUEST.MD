@@ -11,5 +11,5 @@ labels: Feature request, needs review
 ## Feature Description
 <!-- What does your new feature do? How would users interact with it/use it? -->
 
-## Additional Details
+## Possible Implementation
 <!-- This is your space to add anything you think is relevant -->
